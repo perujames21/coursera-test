@@ -1,0 +1,133 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  }
+
+/** HEADER **/
+#header-nav {
+  background-color: #878f99;
+  border-radius: 0;
+  border: 0;
+}
+
+.container .row{
+margin: auto;
+}
+
+.navbar-brand {
+  padding-left: 5px;
+margin-left: 5px;
+margin-top: 5px;
+}
+
+.navbar-brand h1 {
+    color: #000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+    text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #000;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -45px;
+}
+/* END HEADER */
+/* Background #1e81b0 */
+h1 {
+  color: #000000;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+p {
+  color: #000000;
+  position: relative;
+  font-style: italic;
+  font-weight: normal;
+  text-align: left;
+  padding: 30px;
+}
+
+.row {
+  width: 100%;
+}
+
+.box {
+  background-color: #ccffcc;
+  border: 1px solid black;
+  position: relative;
+  margin: 20px;
+  overflow: auto;
+}
+
+.Athos {
+  background-color: #ffff00;
+  border: 1px solid black;
+  color: #009933;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 0px;
+  text-align: center;
+  float: right;
+}
+
+.Portos {
+  background-color: #00ff00;
+  border: 1px solid black;
+  color: #ff0066;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 0px;
+  text-align: center;
+  float: right;
+}
+
+.Aramis {
+  background-color: #99ccff;
+  border: 1px solid black;
+  color: #9933ff;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 0px;
+  text-align: center;
+  float: right;
+}
